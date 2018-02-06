@@ -581,3 +581,8 @@
 #about {
 
 }
+
+
+#reel {
+	max-width: 1023px !important;
+}
