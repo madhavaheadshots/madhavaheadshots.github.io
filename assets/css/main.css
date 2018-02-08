@@ -578,9 +578,6 @@
 	}
 
 
-#about {
-
-}
 
 #emailhover {
 	cursor: pointer;
@@ -588,4 +585,8 @@
 
 #emailhover:hover {
 	color: #77ab59 !important;
+}
+
+#emailhoverheader:hover {
+	color: black;
 }
