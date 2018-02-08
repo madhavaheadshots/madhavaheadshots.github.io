@@ -585,3 +585,7 @@
 #emailhover {
 	cursor: pointer;
 }
+
+#emailhover:hover {
+	color: #77ab59;
+}
