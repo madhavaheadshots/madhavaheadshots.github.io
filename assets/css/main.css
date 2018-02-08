@@ -194,7 +194,7 @@
 
 	#header {
 		position: relative;
-		background: #ffe100 url("images/overlay.png");
+		background: #77ab59 url("images/overlay.png");
 		color: #fff;
 		cursor: default;
 	}
@@ -582,3 +582,6 @@
 
 }
 
+#emailhover {
+	cursor: pointer;
+}
