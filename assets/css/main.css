@@ -587,5 +587,5 @@
 }
 
 #emailhover:hover {
-	color: #77ab59;
+	color: #77ab59 !important;
 }
